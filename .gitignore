@@ -1,0 +1,32 @@
+# === Java / Maven ===
+agrisense-backend/agrisense-backend/target/
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# === Node / Frontend ===
+agrisense-frontend/node_modules/
+agrisense-frontend/dist/
+
+# === IDE ===
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Environment ===
+.env
+.env.local
+.env.*.local
+
+# === Logs ===
+*.log
+npm-debug.log*
