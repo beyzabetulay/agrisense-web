@@ -108,7 +108,7 @@ agrisense-web/
 ### Run
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/agrisense-web.git
+git clone https://github.com/beyzabetulay/agrisense-web.git
 cd agrisense-web
 
 # Build and start all services
